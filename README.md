@@ -1,2 +1,11 @@
 # qa-workshop-portfolio
-Utilizado para el Semillero/Workshop de Ing. en Pruebas utilizado como portafolio
+
+Portafolio individual del workshop “Ingeniero de Pruebas en el Desarrollo Moderno”
+
+Autor: Tobias Cabañas
+
+Este repositorio contendrá los entregables desarrollados durante el workshop
+
+## Estado actual
+
+Repositorio conectado y listo para comenzar el trabajo del portafolio
